@@ -2,9 +2,9 @@ Gem::Specification.new do |s|
   s.name          = 'logstash-output-azure-eventhub'
   s.version       = '0.1.0'
   s.licenses      = ['Apache-2.0']
-  s.summary       = 'TODO: Write a short summary, because Rubygems requires one.'
-  s.description   = 'TODO: Write a longer description or delete this line.'
-  s.homepage      = 'TODO: Put your plugin''s website or public repo URL here.'
+  s.summary       = 'Logstash Output Plugin to Export Messages to an Azure Event Hub'
+#  s.description   = 'TODO: Write a longer description or delete this line.'
+  s.homepage      = 'https://github.com/CKrowiorsch/logstash-output-azure-eventhub'
   s.authors       = ['Christian Krowiorsch']
   s.email         = 'christian.krowiorsch@googlemail.com'
   s.require_paths = ['lib']
